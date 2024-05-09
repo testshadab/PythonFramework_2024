@@ -1,0 +1,4 @@
+First name;Last name
+Rachel;Booker
+<script>alert('XSS')</script>;Smith
+
